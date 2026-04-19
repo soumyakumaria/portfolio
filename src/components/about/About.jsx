@@ -30,7 +30,7 @@ const About = () => {
                 Hi, I'm <span>Soumya Kumaria</span>
               </h3>
               <p>
-                I'm a Software Developer with over 2 years of
+                I'm a Software Developer with over 5 years of
                 experience. I'm from Calgary, Alberta. I code and create applications. I love hiking
                 and reading books.
               </p>
