@@ -2,7 +2,12 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2022 - 2023",
+    year: "   2024 - Present",
+    position: " Full Stack Developer",
+    compnayName: "TruPoint Advisory",
+  },
+  {
+    year: "   2022 - 2024",
     position: " Application Developer",
     compnayName: "S.I. Systems",
   },
@@ -10,11 +15,6 @@ const experienceContent = [
     year: "2021 - 2022",
     position: " Software Developer Intern",
     compnayName: "TC Energy",
-  },
-  {
-    year: "2018 - 2020",
-    position: "Store Manager",
-    compnayName: "Jugo Juice",
   },
 ];
 
